@@ -3,6 +3,48 @@
   
     
     <entry>
+      <title></title>
+      <url>/2017/08/06/Markdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93/</url>
+      <content type="html"><![CDATA[<hr>
+<h2 id="title-Markdown语法总结"><a href="#title-Markdown语法总结" class="headerlink" title="title:Markdown语法总结"></a>title:Markdown语法总结</h2><p>This is Simplelified Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to<br><a href="http://daringfireball.net/projects/markdown/syntax" target="_blank" rel="external">Markdown: Syntax</a>.</p>
+<h2 id="Markdown-概述"><a href="#Markdown-概述" class="headerlink" title="Markdown 概述"></a>Markdown 概述</h2><p>Markdown 的目标是实现「易读易写」，兼容HTML。<br>但是，在 HTML 区块标签间的 Markdown 格式语法将不会被处理。比如，你在 HTML 区块内使用 Markdown 样式的<em>强调</em>会没有效果。也就是说，Markdown 与HTML标签不能嵌套使用。</p>
+<h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p>Markdown支持两种标题的语法，类 Setext 和类 atx 形式。<br>类 Setext 形式是用底线的形式，利用 = （最高阶标题）和 - （第二阶标题），例如：</p>
+<h1 id="This-is-an-H1"><a href="#This-is-an-H1" class="headerlink" title="This is an H1"></a>This is an H1</h1><h2 id="This-is-an-H2"><a href="#This-is-an-H2" class="headerlink" title="This is an H2"></a>This is an H2</h2><p>注：任何数量的 = 和 - 都可以有效果。<br>类 Atx 形式则是在行首插入 1 到 6 个 #，对应到标题 1 到 6 阶，例如：</p>
+<h1 id="这是-H1"><a href="#这是-H1" class="headerlink" title="这是 H1"></a>这是 H1</h1><h2 id="这是-H2"><a href="#这是-H2" class="headerlink" title="这是 H2"></a>这是 H2</h2><h6 id="这是-H6"><a href="#这是-H6" class="headerlink" title="这是 H6"></a>这是 H6</h6><p>你可以选择性地「闭合」类 atx 样式的标题，这纯粹只是美观用的，若是觉得这样看起来比较舒适，你就可以在行尾加上 #，而行尾的# 数量也不用和开头一样（行首的井字符数量决定标题的阶数）：</p>
+<h1 id="这是-H1-1"><a href="#这是-H1-1" class="headerlink" title="这是 H1"></a>这是 H1</h1><h2 id="这是-H2-1"><a href="#这是-H2-1" class="headerlink" title="这是 H2"></a>这是 H2</h2><h3 id="这是-H3"><a href="#这是-H3" class="headerlink" title="这是 H3"></a>这是 H3</h3><h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>/2017/08/06/Android%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/2017/08/06/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      <content type="html"><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">public class Test &#123;</div><div class="line">	</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+      
+        <categories>
+            
+            <category> 测试分类 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> testTag </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hello World]]></title>
       <url>/2017/08/06/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
